@@ -1,1 +1,40 @@
 # communityGardenGaming
+
+"AppState"
+{
+	"appid"		"312720"
+	"Universe"		"1"
+	"name"		"Khet 2.0"
+	"StateFlags"		"4"
+	"installdir"		"Khet 2.0"
+	"LastUpdated"		"1547477073"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"124917058"
+	"buildid"		"1641198"
+	"LastOwner"		"76561198887212195"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+	"InstalledDepots"
+	{
+		"312724"
+		{
+			"manifest"		"1572518222379917193"
+		}
+		"312725"
+		{
+			"manifest"		"8028015046803991722"
+		}
+	}
+	"MountedDepots"
+	{
+		"312724"		"1572518222379917193"
+		"312725"		"8028015046803991722"
+	}
+}
+
