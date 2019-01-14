@@ -1,5 +1,7 @@
 # communityGardenGaming
 
+file-name: appmanifest_312720.acf
+
 "AppState"
 {
 	"appid"		"312720"
