@@ -1,0 +1,32 @@
+"AppState"
+{
+	"appid"		"35700"
+	"Universe"		"1"
+	"name"		"Trine"
+	"StateFlags"		"4"
+	"installdir"		"Trine"
+	"LastUpdated"		"1517943609"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"1480164843"
+	"buildid"		"758802"
+	"LastOwner"		"76561197986117549"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+	"InstalledDepots"
+	{
+		"35703"
+		{
+			"manifest"		"8655608350251686727"
+		}
+	}
+	"MountedDepots"
+	{
+		"35703"		"8655608350251686727"
+	}
+}
