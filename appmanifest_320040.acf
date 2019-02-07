@@ -1,0 +1,33 @@
+"AppState"
+{
+	"appid"		"320040"
+	"Universe"		"1"
+	"name"		"Moon Hunters"
+	"StateFlags"		"4"
+	"installdir"		"Moon Hunters"
+	"LastUpdated"		"1546356097"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"1831191708"
+	"buildid"		"2519715"
+	"LastOwner"		"76561198027039076"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+	"InstalledDepots"
+	{
+		"320041"
+		{
+			"manifest"		"4831434438799254037"
+		}
+	}
+	"MountedDepots"
+	{
+		"320041"		"4831434438799254037"
+	}
+}
